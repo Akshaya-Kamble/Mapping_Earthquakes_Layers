@@ -1,6 +1,5 @@
 # Mapping_Earthquakes
-Mapping earthquake data : https://akshaya-kamble.github.io/Mapping_Earthquakes_Layers/
-
+Mapping earthquakes and tecttonic plates using geoJSON data 
 
 ### Overview of the Project
 In this project we have created the eathquake map with three different layers as street , satellite and dark.All these three layers are mutually exclusive. The map further plots three kinds of data,the location of earthquakes is marked with a circle that has a radius and color depending on the magnitude of the earthquake.The major earthquakes with magnitude greater than 4.5 are marked with a bigger radius and the tectonic plates are shown with the red lines. All this data can be selected together or viewed as required. The map also shows a legend for the magnitude on the right corner.The circle markers when clicked also show the magnitude and location.
