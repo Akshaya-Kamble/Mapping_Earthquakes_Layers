@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-Mapping earthquake data
+Mapping earthquake data : https://akshaya-kamble.github.io/Mapping_Earthquakes_Layers/
 
 
 ### Overview of the Project
